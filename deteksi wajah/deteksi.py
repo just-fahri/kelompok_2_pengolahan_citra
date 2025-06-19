@@ -1,4 +1,3 @@
-# face_detection/deteksi.py
 import cv2
 import os
 
